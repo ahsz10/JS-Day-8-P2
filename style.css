@@ -36,6 +36,10 @@ body {
   -moz-osx-font-smoothing: grayscale;      
 }
 
+#error{
+  color: red;
+}
+
 
 
 
